@@ -1,2 +1,2 @@
 # Homework
-- Map created through HTMl
+- Map created through HTMl, JAVASCRIPT, HTML, CSS
